@@ -6,4 +6,5 @@ References
 ### [3. PyCharm添加本地python解释器](https://blog.csdn.net/tailonh/article/details/100102485)
 ### [4. Mediapipe在Jetson agx上的安装流程及问题解决方案](https://blog.csdn.net/neskyle/article/details/122556458)
 ### [5.How to Install Mediapipe on Nvidia Jetson Nano 4GB , 2GB | Jetson Xavier NX | Jetson AGX Xavier|](https://www.youtube.com/watch?v=RAfkrusLnkM&ab_channel=RoboticswithMelvin)
+### [6.sudo chmod 666 /dev/ttyACM0]
 
